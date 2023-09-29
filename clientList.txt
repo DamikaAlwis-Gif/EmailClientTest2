@@ -1,0 +1,5 @@
+Office_friend: alwis ,damika7alwis@gamil.com,<Designation>,2000/12/07
+Personal: Nimal,<Nick-name>,damika7alwis@gmail.com, 2000/09/18
+Official: jayantha ,<Email>,<Designation>
+Personal: <Name>,<Nick-name>,<Email>,2000/12/31
+Personal: <Name>,<Nick-name>,<Email>,2000/09/18
